@@ -6,6 +6,7 @@ Proyecto de análisis y preparación de datos desarrollado como parte de la form
 Se utiliza la metodología CRISP-DM como marco de trabajo y herramientas de Python para realizar tareas de procesamiento, transformación y análisis de datos.
 
 ### Objetivos
+
 - Comprender las principales etapas de un proyecto de análisis de datos.
 - Aplicar la metodología CRISP-DM.
 - Procesar y preparar conjuntos de datos utilizando Python.
@@ -22,29 +23,33 @@ Procesamiento de datos con Python: manipulación y preparación de conjuntos de 
 Formateo de datos: transformación de datos para facilitar su análisis.
 Normalización de datos: aplicación de técnicas de transformación y escalamiento.
 Variables categóricas y numéricas: identificación y tratamiento de diferentes tipos de variables.
-Tecnologías y herramientas
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Estructura del proyecto
-Proceso
+
+### Tecnologías y herramientas
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Estructura del proyecto
+
+### Proceso
 
 De manera general, el proyecto sigue un flujo basado en CRISP-DM:
 
-Comprensión del problema.
-Comprensión y exploración de los datos.
-Preparación y transformación de los datos.
-Análisis de la información.
-Preparación de los datos para etapas posteriores de modelamiento.
-Aprendizajes
+1. Comprensión del problema.
+2. Comprensión y exploración de los datos.
+3. Preparación y transformación de los datos.
+4. Análisis de la información.
+5. Preparación de los datos para etapas posteriores de modelamiento.
+
+### Aprendizajes
 
 Este proyecto permitió fortalecer conocimientos fundamentales para el análisis de datos, especialmente en la manipulación, limpieza, transformación y preparación de información utilizando Python.
 
 También permitió comprender la importancia de trabajar los datos antes de realizar análisis o desarrollar modelos de Machine Learning.
 
-Autor
+### Autor
 
 Kevin Tacuri
 
