@@ -1,19 +1,19 @@
 # Analisis-de-datos-con-Python
 
-Descripción
+### Descripción
 
 Proyecto de análisis y preparación de datos desarrollado como parte de la formación en Ciencia de Datos con Python. El proyecto aborda diferentes etapas del proceso de análisis de datos, desde la comprensión del problema y exploración de los datos hasta su procesamiento y preparación para el análisis.
-
 Se utiliza la metodología CRISP-DM como marco de trabajo y herramientas de Python para realizar tareas de procesamiento, transformación y análisis de datos.
 
-Objetivos
-Comprender las principales etapas de un proyecto de análisis de datos.
-Aplicar la metodología CRISP-DM.
-Procesar y preparar conjuntos de datos utilizando Python.
-Identificar y trabajar con variables numéricas y categóricas.
-Aplicar técnicas de transformación y normalización de datos.
-Preparar los datos para posteriores procesos de análisis y modelamiento.
-Contenido
+### Objetivos
+- Comprender las principales etapas de un proyecto de análisis de datos.
+- Aplicar la metodología CRISP-DM.
+- Procesar y preparar conjuntos de datos utilizando Python.
+- Identificar y trabajar con variables numéricas y categóricas.
+- Aplicar técnicas de transformación y normalización de datos.
+- Preparar los datos para posteriores procesos de análisis y modelamiento.
+
+### Contenido
 
 El proyecto incluye notebooks relacionados con:
 
@@ -29,19 +29,6 @@ Pandas
 NumPy
 Matplotlib
 Estructura del proyecto
-analisis-datos-python/
-│
-├── data/
-│   └── Datos utilizados en los análisis
-│
-├── notebooks/
-│   ├── CRISP-DM.ipynb
-│   ├── Procesando_datos_Python.ipynb
-│   ├── Formateando_datos.ipynb
-│   ├── Normalizando_datos.ipynb
-│   └── Variables_categoricas_numericas.ipynb
-│
-└── README.md
 Proceso
 
 De manera general, el proyecto sigue un flujo basado en CRISP-DM:
